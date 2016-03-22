@@ -1,0 +1,7 @@
+name          'get/getlib'
+version       '0.1.0'
+author        'Daniel Kendrick'
+license       'Apache License, Version 2.0'
+summary       'This is the common module for shellfu & get-automation compliant modules'
+description   'This module provides functions and resources used by ShellFu & GET-Automation modules'
+dependency    'puppetlabs/stdlib'
